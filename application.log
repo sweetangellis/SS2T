@@ -1,0 +1,34 @@
+2025-03-29 02:50:17,500 - TikTok2YouTube - INFO - All dependencies successfully verified
+2025-03-29 02:50:17,501 - TikTok2YouTube - INFO - Ensured directory exists: ./videos
+2025-03-29 02:50:17,503 - TikTok2YouTube - INFO - Ensured directory exists: ./videos/thumbnails
+2025-03-29 02:50:17,503 - TikTok2YouTube - INFO - Ensured directory exists: ./videos/processed
+2025-03-29 02:50:17,504 - TikTok2YouTube - INFO - Ensured directory exists: ./watermarks
+2025-03-29 02:50:17,504 - TikTok2YouTube - INFO - Ensured directory exists: ./output
+2025-03-29 02:50:17,505 - TikTok2YouTube - INFO - Loading application configuration
+2025-03-29 02:50:18,759 - TikTok2YouTube - INFO - Initializing database
+2025-03-29 02:50:18,776 - TikTok2YouTube - INFO - Creating main application window
+2025-03-29 02:50:19,508 - TikTok2YouTube.MainWindow - INFO - Main window initialized
+2025-03-29 02:50:19,509 - TikTok2YouTube - INFO - Application startup complete
+2025-03-29 02:55:07,299 - TikTok2YouTube - INFO - All dependencies successfully verified
+2025-03-29 02:55:07,299 - TikTok2YouTube - INFO - Ensured directory exists: ./videos
+2025-03-29 02:55:07,300 - TikTok2YouTube - INFO - Ensured directory exists: ./videos/thumbnails
+2025-03-29 02:55:07,300 - TikTok2YouTube - INFO - Ensured directory exists: ./videos/processed
+2025-03-29 02:55:07,301 - TikTok2YouTube - INFO - Ensured directory exists: ./watermarks
+2025-03-29 02:55:07,301 - TikTok2YouTube - INFO - Ensured directory exists: ./output
+2025-03-29 02:55:07,301 - TikTok2YouTube - INFO - Loading application configuration
+2025-03-29 02:55:08,411 - TikTok2YouTube - INFO - Initializing database
+2025-03-29 02:55:08,413 - TikTok2YouTube - INFO - Creating main application window
+2025-03-29 02:55:08,494 - TikTok2YouTube.MainWindow - INFO - Main window initialized
+2025-03-29 02:55:08,495 - TikTok2YouTube - INFO - Application startup complete
+2025-03-29 02:57:10,269 - TikTok2YouTube - INFO - All dependencies successfully verified
+2025-03-29 02:57:10,269 - TikTok2YouTube - INFO - Ensured directory exists: ./videos
+2025-03-29 02:57:10,270 - TikTok2YouTube - INFO - Ensured directory exists: ./videos/thumbnails
+2025-03-29 02:57:10,270 - TikTok2YouTube - INFO - Ensured directory exists: ./videos/processed
+2025-03-29 02:57:10,271 - TikTok2YouTube - INFO - Ensured directory exists: ./watermarks
+2025-03-29 02:57:10,271 - TikTok2YouTube - INFO - Ensured directory exists: ./output
+2025-03-29 02:57:10,271 - TikTok2YouTube - INFO - Loading application configuration
+2025-03-29 02:57:11,384 - TikTok2YouTube - INFO - Initializing database
+2025-03-29 02:57:11,386 - TikTok2YouTube - INFO - Creating main application window
+2025-03-29 02:57:11,470 - TikTok2YouTube.MainWindow - INFO - Main window initialized
+2025-03-29 02:57:11,471 - TikTok2YouTube - INFO - Application startup complete
+2025-03-29 02:57:26,221 - TikTok2YouTube.MainWindow - ERROR - Error adding video to database: Video file not found: ./videos\tiktok_1743213444.mp4
